@@ -4,6 +4,11 @@ Random forest retrievals of DSD properties for NPOL radar.
 
 Added to GitHub for reproduction of results of Conrick et al. (2019) submitted to JTech on June 24, 2019.
 
+<b><u>Update</u>:  August 29, 2019</b>
+GitHub does not allow large files, so the TAR.GZ file is now hosted on UW Atmospheric Sciences Servers:  https://www.atmos.washington.edu/~rconrick/RF/
+Download it there and follow the instructions below.
+
+
 
 <b>File Format</b>
 The tar.gz file contains two Python pickle files (RF_D0.pickle, RF_RR.pickle, RF_LWC.pickle) each for retrieving D0, Rain rate (RR), and LWC, respectively, from NPOL observations of Z,ZDR.
