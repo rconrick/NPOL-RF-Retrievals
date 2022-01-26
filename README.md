@@ -19,7 +19,7 @@ Download it there and follow the instructions below.
 
 
 <b>File Format</b>
-The tar.gz file contains two Python pickle files (RF_D0.pickle, RF_RR.pickle, RF_LWC.pickle) each for retrieving D0, Rain rate (RR), and LWC, respectively, from NPOL observations of Z,ZDR.
+The tar.gz file contains three Python pickle files (RF_D0.pickle, RF_RR.pickle, RF_LWC.pickle) each for retrieving D0, Rain rate (RR), and LWC, respectively, from NPOL observations of Z,ZDR.
 
 <b>Use</b>
 1.   Unpack into a working directory.
