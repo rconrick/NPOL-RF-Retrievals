@@ -2,7 +2,15 @@
 
 Random forest retrievals of DSD properties for NPOL radar. 
 
-Added to GitHub for reproduction of results of Conrick et al. (2019) submitted to JTech on June 24, 2019.
+Added to GitHub for reproduction of results of Conrick et al. (2019).<br /><br />
+If you use these objects, please cite: <br />
+<i>Conrick, R., J.P. Zagrodnik, and C.F. Mass, 2020: Dual-polarization radar retrievals of coastal Pacific Northwest rain drop size distribution parameters using random forest regression. J. Atmos. Oceanic Technol., 37, 229–242.</i>
+<br />
+
+<b><u>Update</u> January 26, 2022</b>
+Please ensure scikit-learn version 0.21.3 is installed prior to use. Newer versions of scikit-learn have changed the way that random forests are called, so loading the pickle files will throw an error.
+
+
 
 <b><u>Update</u>:  August 29, 2019</b>
 GitHub does not allow large files, so the TAR.GZ file is now hosted on UW Atmospheric Sciences Servers:  https://www.atmos.washington.edu/~rconrick/RF/
