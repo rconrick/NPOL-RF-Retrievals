@@ -7,6 +7,10 @@ If you use these objects, please cite: <br />
 <i>Conrick, R., J.P. Zagrodnik, and C.F. Mass, 2020: Dual-polarization radar retrievals of coastal Pacific Northwest rain drop size distribution parameters using random forest regression. J. Atmos. Oceanic Technol., 37, 229–242.</i>
 <br />
 
+<b><u>Update</u> October 15, 2024</b>
+If the pickle files are needed, please request them by emailing me.
+
+
 <b><u>Update</u> January 26, 2022</b>
 Please ensure scikit-learn version 0.21.3 is installed prior to use. Newer versions of scikit-learn have changed the way that random forests are called, so loading the pickle files will throw an error.
 
